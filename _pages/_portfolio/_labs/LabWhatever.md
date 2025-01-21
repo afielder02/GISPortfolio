@@ -1,4 +1,5 @@
 ---
 title: Labs
-permalink: /portfolio/labs/
+permalink: /GISPortfolio/portfolio/labs/
 ---
+TESTINJG
