@@ -16,11 +16,8 @@
 title: GIS Portfolio
 email: alexfielder02@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Alex Fielder's GIS Portfolio for professional development
+github_username: afielder02
 minimal_mistakes_skin: dirt
 search: true
 
@@ -31,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver
 
 include:
   - _pages
@@ -60,7 +57,8 @@ plugins:
 author:
   name   : "Alex Fielder"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "GIS Work"
+  bio    : "Graduating USU with a Bachelor's Degree in Environmental Studies and Certificates in GIS and Climate Change Sociology."
+  location : "Logan, UT"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
