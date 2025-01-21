@@ -12,7 +12,7 @@ figure out sub folders in the top links
 
 Welcome to my portfolio! Below are links to my different project categories:
 
-- [GIS Labs](GISPortfolio/portfolio/labs/)
+- [GIS Labs](/labs/)
 - [Maps](/portfolio/maps/)
 - [Project Reports](/portfolio/reports/)
 
