@@ -12,8 +12,8 @@ figure out sub folders in the top links
 
 Welcome to my portfolio! Below are links to my different project categories:
 
-- [Web Projects](/portfolio/web-projects/)
-- [GIS Projects](/portfolio/gis-projects/)
-- [Design Projects](/portfolio/design-projects/)
+- [GIS Labs](/portfolio/labs/)
+- [Maps](/portfolio/maps/)
+- [Project Reports](/portfolio/reports/)
 
 Feel free to explore each section to learn more about my work.
