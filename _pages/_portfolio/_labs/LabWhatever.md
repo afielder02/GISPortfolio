@@ -1,4 +1,4 @@
 ---
 title: Labs
-permalink: /labs/
+permalink: /portfolio/labs/
 ---
