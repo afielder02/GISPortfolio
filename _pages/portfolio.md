@@ -3,10 +3,10 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-## Portfolio
+# Portfolio
 
-# Maps
+## Maps
 Maps I have made in class and for outside projects
 
-# Class Labs
+## Class Labs
 bla bla bla
