@@ -2,6 +2,4 @@
 title: Resume
 permalink: /resume/
 ---
-
-# Resume
-yep
+Resume will go here:
