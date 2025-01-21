@@ -1,1 +1,4 @@
-
+---
+title: Labs
+permalink: /labs/
+---
