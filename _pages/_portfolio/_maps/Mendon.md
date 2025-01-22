@@ -1,5 +1,5 @@
 ---
 title: Maps
-permalink: /portfolio/:maps/
+permalink: /maps/
 ---
 Mendon Meddow Map
