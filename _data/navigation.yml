@@ -5,10 +5,10 @@ main:
     url: /portfolio/
     subfolders:
       - title: "Web Projects"
-        url: /portfolio/web-projects/
+        url: /portfolio/:web-projects/
       - title: "GIS Projects"
-        url: /portfolio/gis-projects/
+        url: /portfolio/:gis-projects/
       - title: "Design Projects"
-        url: /portfolio/design-projects/
+        url: /portfolio/:design-projects/
   - title: "Resume"
     url: /resume/
