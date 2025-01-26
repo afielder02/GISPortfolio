@@ -11,8 +11,6 @@ This report was created in the "Communicating Sustainability" class and leverage
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
 <br>
-___
-<br>
 <details open>
 <summary><b>Double Up Food Bucks</b></summary>
 <br>
