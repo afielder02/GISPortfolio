@@ -27,7 +27,7 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:title/
 paginate: 0 # amount of posts to show
-#paginate_path: /page:num/
+paginate_path: /page:num/
 timezone: America/Denver
 
 include:
