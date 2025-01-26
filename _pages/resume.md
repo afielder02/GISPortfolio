@@ -2,7 +2,4 @@
 title: Resume
 permalink: /resume/
 ---
-![Alt text](/assets/_pdf/ONE-PAGE-RESUME.png/)
-![Alt text](/assets/_pdf/ONE-PAGE-RESUME.png)
-![Alt text](/assets/images/one-page-resume.png/)
-![Alt text](/assets/images/one-page-resume.png)
+![Alex Fielders one page resume](https://afielder02.github.io/GISPortfolio/assets/images/one-page-resume.png)
