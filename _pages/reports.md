@@ -2,7 +2,6 @@
 title: Reports
 permalink: /reports/
 ---
-This page contains several reports I have created in and outside of class.
 <details open>
 <summary><b>500 North Bike Lane Proposal</b></summary>
 <br>
