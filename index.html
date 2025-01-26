@@ -7,8 +7,22 @@ permalink: /
 title: "Welcome"
 author_profile: true
 ---
-{% assign home_page = site.pages | where: "path", "home.md" | first %}
-{% if home_page %}
-  {{ home_page.content }}
-{% endif %}
+#{% assign home_page = site.pages | where: "path", "home.md" | first %}
+#{% if home_page %}
+#  {{ home_page.content }}
+#{% endif %}
+<body>
+  <header>
+    <h1>Welcome to My Site</h1>
+    <p>This is my custom homepage. Edit the content in <code>home.md</code>.</p>
+  </header>
 
+  <section>
+    <h2>About Me</h2>
+    <p>More content from home.md will show here...</p>
+  </section>
+
+  <footer>
+    <p>Find me on <a href="https://github.com/afielder02">GitHub</a> or <a href="https://linkedin.com/in/alexfielder">LinkedIn</a>.</p>
+  </footer>
+</body>
