@@ -2,4 +2,4 @@
 title: Resume
 permalink: /resume/
 ---
-Resume will go here:
+<object data="{{ site.url }}{{ site.baseurl }}/assets/_pdfs/ONE PAGE RESUME.pdf" width="1000" height="1000" type="application/pdf"></object>
