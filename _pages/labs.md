@@ -1,5 +1,5 @@
 ---
 title: Labs
-permalink: /portfolio/labs/
+permalink: /labs/
 ---
 Here are my labs
