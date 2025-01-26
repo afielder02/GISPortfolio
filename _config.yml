@@ -71,10 +71,10 @@ author:
 
 footer:
   links:
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alexander-fielder/"
-    - label: "Somthing else?"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/afielder02"
 
