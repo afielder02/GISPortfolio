@@ -1,5 +1,5 @@
 ---
 title: Reports
-permalink: /portfolio/reports/
+permalink: /reports/
 ---
 REPORTS
