@@ -60,9 +60,12 @@ author:
   bio    : "Graduating USU with a Bachelor's Degree in Environmental Studies and Certificates in GIS and Climate Change Sociology."
   location : "Logan, UT"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/alexander-fielder/"
+    - label: "GitHub"
+      icon: "fas fa-fw fa-github"
+      url: "https://github.com/afielder02"
 
 footer:
   links:
@@ -80,6 +83,7 @@ defaults:
       type: posts
     values:
       layout: single
+      permalink: /:title/
       author_profile: true
       read_time: true
       comments: true
