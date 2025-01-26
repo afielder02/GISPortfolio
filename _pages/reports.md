@@ -2,8 +2,8 @@
 title: Reports
 permalink: /reports/
 ---
-There are several reports on this page, so please feel free to use the drop downs to collapse and open reports!
 ___
+There are several reports on this page, so please feel free to use the drop downs to collapse and open reports!
 <details open>
 <summary><b>500 North Bike Lane Proposal</b></summary>
 <br>
@@ -24,6 +24,7 @@ This was a project done outside of class regarding the Double Up Food Bucks Prog
 <summary><b>Natural Resource Management Plan</b></summary>
 <br>
 This was my final for Human Dimensions of Natural Resource Management at USU, where we developed a plan for a natural resource management issue. I chose to focus on urban sprawl in Cache County and used a Google Earth Engine script to get the reference pictures I used. I am very passionate about curbing sprawl so I was very happy to get the chance to write about it!
+<br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/NRM_FINAL.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
 <br>
@@ -31,6 +32,7 @@ This was my final for Human Dimensions of Natural Resource Management at USU, wh
 <summary><b>Poster for Natural Resources and Society</b></summary>
 <br>
 This was a very low key final, more of a pratice in poster making and presentation.
+<br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Poster.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
 
