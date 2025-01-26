@@ -1,6 +1,5 @@
 ---
-permalink: /
-title: "Home"
+title: "Welcome!"
 layout: single
 ---
 Welcome!
