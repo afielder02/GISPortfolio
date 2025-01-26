@@ -2,7 +2,7 @@
 title: Reports
 permalink: /reports/
 ---
-<br>
+___
 <details open>
 <summary><b>500 North Bike Lane Proposal</b></summary>
 <br>
