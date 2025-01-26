@@ -18,4 +18,13 @@ This was a project done outside of class regarding the Double Up Food Bucks Prog
 <br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Farmers_Market_GIS_Report.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
+<br>
+<details open>
+<summary><b>Natural Resource Management Plan</b></summary>
+<br>
+This was my final for Human Dimensions of Natural Resource Management at USU, where we developed a plan for a natural resource management issue. I chose to focus on urban sprawl in Cache County and used a Google Earth Engine script to get the reference pictures I used. I am very passionate about curbing sprawl so I was very happy to get the chance to write about it!
+<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/NRM_Final.pdf" width="1000" height="1000" type="application/pdf"></object>
+</details>
+<br>
+![POSTER](https://afielder02.github.io/GISPortfolio/assets/pdfs/Poster.JPG)
 
