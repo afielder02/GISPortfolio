@@ -1,5 +1,5 @@
 # Minimal Mistakes remote theme starter
-Check out my portfolio on the site [at](https://afielder02.github.io/GISPortfolio/)
+Check out my portfolio on the site [**HERE**](https://afielder02.github.io/GISPortfolio/)
 
 
 Made with the Minimal Mistakes Jekyll theme:
