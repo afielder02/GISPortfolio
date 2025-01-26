@@ -1,4 +1,4 @@
-# Minimal Mistakes remote theme starter
+# Hello!
 Check out my portfolio on the site [**HERE**](https://afielder02.github.io/GISPortfolio/)
 
 
