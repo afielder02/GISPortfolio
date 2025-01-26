@@ -1,7 +1,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Maps"
+    url: /maps/
+  - title: "Class Labs"
+    url: /labs/
+  - title: "Reports"
+    url: /reports/
   - title: "Resume"
     url: /resume/
