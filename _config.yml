@@ -63,20 +63,20 @@ author:
   location : "Logan, UT"
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alexander-fielder/"
-    - label: "GitHub"
-      icon: "fas fa-fw fa-github"
+    - label: "Somthing else?"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/afielder02"
 
 footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://google.com/"
+      url: "https://www.linkedin.com/in/alexander-fielder/"
     - label: "Somthing else?"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/afielder02"
 
 defaults:
   # _posts
