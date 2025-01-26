@@ -2,6 +2,7 @@
 title: Reports
 permalink: /reports/
 ---
+There are several reports on this page, so please feel free to use the drop downs to collapse and open reports!
 ___
 <details open>
 <summary><b>500 North Bike Lane Proposal</b></summary>
@@ -11,7 +12,7 @@ This report was created in the "Communicating Sustainability" class and leverage
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
 <br>
-<details open>
+<details>
 <summary><b>Double Up Food Bucks</b></summary>
 <br>
 This was a project done outside of class regarding the Double Up Food Bucks Program. The idea was to figure out where and how far people are coming from to go to the farmers markets that had the double up program. The report goes over my methods of analysis and I created a supplemental story map (that I no longer have access to) <a href="https://storymaps.arcgis.com/stories/3acda68ada4c42d2bacafadd5dd1ed55" target="_blank">here</a>.
@@ -19,12 +20,17 @@ This was a project done outside of class regarding the Double Up Food Bucks Prog
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Farmers_Market_GIS_Report.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
 <br>
-<details open>
+<details>
 <summary><b>Natural Resource Management Plan</b></summary>
 <br>
 This was my final for Human Dimensions of Natural Resource Management at USU, where we developed a plan for a natural resource management issue. I chose to focus on urban sprawl in Cache County and used a Google Earth Engine script to get the reference pictures I used. I am very passionate about curbing sprawl so I was very happy to get the chance to write about it!
-<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/NRM_Final.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/NRM_FINAL.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
 <br>
-![POSTER](https://afielder02.github.io/GISPortfolio/assets/pdfs/Poster.JPG)
+<details>
+<summary><b>Poster for Natural Resources and Society</b></summary>
+<br>
+This was a very low key final, more of a pratice in poster making and presentation.
+<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Poster.pdf" width="1000" height="1000" type="application/pdf"></object>
+</details>
 
