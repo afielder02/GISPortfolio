@@ -68,9 +68,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/afielder02"
-    - label: "Handshake"
-      icon: "fab fa-fw fa-handshake"
-      url: "https://app.joinhandshake.com/profiles/5edxtd"
 
 footer:
   links:
