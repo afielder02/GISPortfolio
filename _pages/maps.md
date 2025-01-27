@@ -10,11 +10,11 @@ ___
 
 ![Church Map san fran](https://afielder02.github.io/GISPortfolio/assets/maps/Layout.jpg)
 
-![Bike Crashes](https://afielder02.github.io/GISPortfolio/assets/maps/Layout3.jpg)
+![Bike Crashes](https://afielder02.github.io/GISPortfolio/assets/maps/Layout3.png)
 
 ![DEM accuracy](https://afielder02.github.io/GISPortfolio/assets/maps/Layout3HD.jpg)
 
-![Mendon](https://afielder02.github.io/GISPortfolio/assets/maps/Layout_2017.jpg)
+![Mendon](https://afielder02.github.io/GISPortfolio/assets/maps/Layout_2017.png)
 
 ![Wasatch Front Farmers Markets](https://afielder02.github.io/GISPortfolio/assets/maps/WasatchFrontUtah.jpg)
 
