@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "Maps"
     url: /maps/
-  - title: "Class Labs"
-    url: /labs/
+  - title: "Current Projects"
+    url: /current_projects/
   - title: "Reports"
     url: /reports/
   - title: "Resume"
