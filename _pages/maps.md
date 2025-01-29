@@ -2,7 +2,7 @@
 title: Maps
 permalink: /maps/
 ---
-The following are maps made for class labs and outside projects, with a few special ones thrown in as well!
+The following maps are visualizations from both class labs and outside projects. Several maps are incoporated into reports given to public officals.
 <br><br>
 ![DEM resolution](https://afielder02.github.io/GISPortfolio/assets/maps/SpottedOwlMap.jpg)
 <br><br>
