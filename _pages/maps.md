@@ -4,7 +4,7 @@ permalink: /maps/
 ---
 The following maps are visualizations from both class labs and outside projects. Several maps are incoporated into reports given to public officals.
 <br><br>
-![DEM resolution](https://afielder02.github.io/GISPortfolio/assets/maps/SpottedOwlMap.jpg)
+![Spotted Owl Map](https://afielder02.github.io/GISPortfolio/assets/maps/FinalOwlMap.jpg)
 <br><br>
 ![Stream Order Map of Green Canyon](https://afielder02.github.io/GISPortfolio/assets/maps/Lab6HD.jpg)
 <br><br>
