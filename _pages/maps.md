@@ -2,19 +2,78 @@
 title: Maps
 permalink: /maps/
 ---
-The following maps are visualizations from both class labs and outside projects. Several maps are incoporated into reports given to public officals.
-<br><br>
-![Spotted Owl Map](https://afielder02.github.io/GISPortfolio/assets/maps/FinalOwlMap.jpg)
-<br><br>
-![Stream Order Map of Green Canyon](https://afielder02.github.io/GISPortfolio/assets/maps/Lab6HD.jpg)
-<br><br>
-![Church Map san fran](https://afielder02.github.io/GISPortfolio/assets/maps/Layout.jpg)
-<br><br>
-![Bike Crashes](https://afielder02.github.io/GISPortfolio/assets/maps/Layout3.png)
-<br><br>
-![DEM accuracy](https://afielder02.github.io/GISPortfolio/assets/maps/Layout3HD.jpg)
-<br><br>
-![Mendon](https://afielder02.github.io/GISPortfolio/assets/maps/Layout_2017.png)
-<br><br>
-![Wasatch Front Farmers Markets](https://afielder02.github.io/GISPortfolio/assets/maps/WasatchFrontUtah.jpg)
+The following maps are visualizations from both class labs and outside projects. 
+
+<img src="https://afielder02.github.io/GISPortfolio/assets/images/FinalOwlMap.jpg" width="1000" height="1000">
+<details>
+  <summary><b> OWL MAP </b></summary>
+  <br>
+  Desc
+</details>
+<br>
+
+<img src="https://afielder02.github.io/GISPortfolio/assets/images/Podcast.jpg" width="1000" height="1000">
+<details>
+  <summary><b> PODCAST </b></summary>
+  <br>
+  Desc
+</details>
+<br>
+
+<img src="https://afielder02.github.io/GISPortfolio/assets/images/Watershed.jpg" width="1000" height="1000">
+<details>
+  <summary><b> HYDRO GREEN </b></summary>
+  <br>
+  Desc
+</details>
+<br>
+
+<img src="https://afielder02.github.io/GISPortfolio/assets/images/DEM_Accuracy.png" width="1000" height="1000">
+<details>
+  <summary><b>DEM</b></summary>
+  <br>
+  Desc
+</details>
+<br>
+
+<img src="https://afielder02.github.io/GISPortfolio/assets/images/WasatchFrontUtah.jpg" width="1000" height="1000">
+<details>
+  <summary><b>DoubleUp</b></summary>
+  <br>
+  Desc
+</details>
+<br>
+
+<img src="https://afielder02.github.io/GISPortfolio/assets/images/Bikemap.png" width="1000" height="1000">
+<details>
+  <summary><b>Bikemap</b></summary>
+  <br>
+  Desc
+</details>
+<br>
+
+<img src="https://afielder02.github.io/GISPortfolio/assets/images/Poster.jpg" width="1000" height="1000">
+<details>
+  <summary><b>Map blurb</b></summary>
+  <br>
+  Desc
+</details>
+<br>
+
+<img src="https://afielder02.github.io/GISPortfolio/assets/images/Poster.jpg" width="1000" height="1000">
+<details>
+  <summary><b>Map blurb</b></summary>
+  <br>
+  Desc
+</details>
+<br>
+
+<img src="https://afielder02.github.io/GISPortfolio/assets/images/Poster.jpg" width="1000" height="1000">
+<details>
+  <summary><b>Map blurb</b></summary>
+  <br>
+  Desc
+</details>
+<br>
+
 
