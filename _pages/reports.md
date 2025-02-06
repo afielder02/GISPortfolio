@@ -34,7 +34,7 @@ For my final project in Human Dimensions of Natural Resource Management at USU, 
 <br>
 This is a graphic I created going through amtrak data to tell a story about its post pandemic ridership recovery. It was a practice in data visualization, storytelling, and accurate reporting. The graphics where created using Tableau.
 <br><br>
-<img src="https://afielder02.github.io/GISPortfolio/assets/images/Amtrak.jpg" width="1000" height="1000" alt="Amtrak Post Covid Ridership Recovery">
+<img src="https://afielder02.github.io/GISPortfolio/assets/pdfs/Amtrak.jpg" width="1000" height="1000" alt="Amtrak Post Covid Ridership Recovery">
 </details>
 <br>
 <details>
