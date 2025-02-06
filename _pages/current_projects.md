@@ -32,7 +32,6 @@ permalink: /current_projects/
             if bike_left == "1B":
                 comfort_score += 2
         
-            #this might be bad, but I consider all UDOT owned roads as unsafe, as they focus on improving car capacity rather than saftey for other users...
             if dot_fclass == "UDOT":
                 comfort_score -= 1
 
