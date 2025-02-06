@@ -7,7 +7,6 @@ The following maps are visualizations from both class labs and outside projects.
 <img src="https://afielder02.github.io/GISPortfolio/assets/maps/FinalOwlMap.jpg" width="1000" height="1000">
 <details>
   <summary><b> OWL MAP </b></summary>
-  <br>
   Desc
 </details>
 <br>
