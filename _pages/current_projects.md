@@ -2,7 +2,7 @@
 title: Current Projects
 permalink: /current_projects/
 ---
-##Bike Comfort Research
+<strong>Bike Comfort Research<strong>
 
 <pre>
 <code>
@@ -37,3 +37,5 @@ permalink: /current_projects/
 
 </code>
 </pre>
+
+<img src="https://afielder02.github.io/GISPortfolio/assets/maps/SLC_DEMO.jpg" width="1000" height="1000">
