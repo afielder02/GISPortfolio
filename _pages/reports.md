@@ -3,11 +3,12 @@ title: Reports
 permalink: /reports/
 ---
 ___
-There are several reports on this page, so please feel free to use the drop downs to collapse and open reports!
+This page contains multiple reports. Please use the dropdown menus to expand or collapse each report for easy navigation.
 <details open>
 <summary><b>500 North Bike Lane Proposal</b></summary>
 <br>
-This report was created in the "Communicating Sustainability" class and leverages Community-Based Social Marketing. The plan is currently under review by the city council and planning office, and several drafts of the bike lane have been drawn. A high-quality version can be found <a href="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/view?usp=sharing" target="_blank">here</a>.
+This report was developed as part of the Communicating Sustainability course and applies Community-Based Social Marketing principles to drive impactful change. Currently under review by the city council and planning office, this project has contributed to multiple drafted designs for the proposed bike lane. A <a href="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/view?usp=sharing" target="_blank">high-quality version</a>.
+is available to view.
 <br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
@@ -15,7 +16,7 @@ This report was created in the "Communicating Sustainability" class and leverage
 <details>
 <summary><b>Double Up Food Bucks</b></summary>
 <br>
-This was a project done outside of class regarding the Double Up Food Bucks Program. The idea was to figure out where and how far people are coming from to go to the farmers markets that had the double up program. The report goes over my methods of analysis and I created a supplemental story map (that I no longer have access to) <a href="https://storymaps.arcgis.com/stories/3acda68ada4c42d2bacafadd5dd1ed55" target="_blank">here</a>.
+This independent project focused on analyzing the reach and impact of the Double Up Food Bucks Program. The goal was to determine where participants were traveling from to access farmers' markets offering the program. The report details my analytical methods, and I also created a supplemental story map to visualize the findings that you can find <a href="https://storymaps.arcgis.com/stories/3acda68ada4c42d2bacafadd5dd1ed55" target="_blank">here</a>.
 <br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Farmers_Market_GIS_Report.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
@@ -23,15 +24,23 @@ This was a project done outside of class regarding the Double Up Food Bucks Prog
 <details>
 <summary><b>Natural Resource Management Plan</b></summary>
 <br>
-This was my final for Human Dimensions of Natural Resource Management at USU, where we developed a plan for a natural resource management issue. I chose to focus on urban sprawl in Cache County and used a Google Earth Engine script to get the reference pictures I used. I am very passionate about curbing sprawl so I was very happy to get the chance to write about it!
+For my final project in Human Dimensions of Natural Resource Management at USU, I developed a strategic plan addressing urban sprawl in Cache County. Utilizing a custom Google Earth Engine script, I gathered reference imagery to support my analysis. As someone deeply passionate about sustainable growth and land use planning, this project was a valuable opportunity to explore solutions for curbing sprawl.
 <br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/NRM_FINAL.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
 <br>
 <details>
+<summary><b>Amtrak Ridership Data Visualization</b></summary>
+<br>
+This is a graphic I created going through amtrak data to tell a story about its post pandemic ridership recovery. It was a practice in data visualization, storytelling, and accurate reporting. The graphics where created using Tableau.
+<br><br>
+<img src="https://afielder02.github.io/GISPortfolio/assets/images/Amtrak.jpg" width="1000" height="1000" alt="Amtrak Post Covid Ridership Recovery">
+</details>
+<br>
+<details>
 <summary><b>Poster for Natural Resources and Society</b></summary>
 <br>
-This was a very low key final, more of a pratice in poster making and presentation.
+This poster was a final for a class to give students practice with poster design and presentation.
 <br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Poster.pdf" width="1000" height="1000" type="application/pdf"></object>
 </details>
