@@ -28,7 +28,7 @@ The following maps are visualizations from both class labs and outside projects.
 </details>
 <br>
 
-<img src="https://afielder02.github.io/GISPortfolio/assets/maps/DEM_Accuracy.png" width="1000" height="1000">
+<img src="https://afielder02.github.io/GISPortfolio/assets/maps/DEM_Accuracy.jpg" width="1000" height="1000">
 <details>
   <summary><b>DEM</b></summary>
   <br>
