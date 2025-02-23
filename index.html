@@ -27,7 +27,7 @@ author_profile: true
 <style>
   .two-column-list {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, auto); /* Adjust column width based on content */
     gap: 16px; 
     list-style-type: disc;
     padding-left: 14px;
@@ -35,5 +35,9 @@ author_profile: true
 
   .two-column-list li {
     list-style-position: inside;
+    white-space: nowrap; /* Prevent words from wrapping */
+    overflow: hidden; /* Prevent content overflow */
+    text-overflow: ellipsis; /* Add "..." if text overflows */
   }
 </style>
+
