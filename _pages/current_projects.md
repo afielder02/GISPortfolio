@@ -42,7 +42,6 @@ My final project in my Python class involved taking UDOT road data from the UGRC
 </code>
 </pre>
 </details>
-<br><br>
 <br>
 <img src="https://afielder02.github.io/GISPortfolio/assets/maps/SLC_DEMO.jpg" width="700" height="700">
 </details>
