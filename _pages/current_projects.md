@@ -4,7 +4,7 @@ permalink: /current_projects/
 ---
 <strong>Bike Comfort Research</strong>
 <br>
-My final project in my Python class involved taking UDOT road data from the UGRC, and creating a “bike comfort” score based on several factors (speed limit, bike lane type, and road ownership). This final project led to starting a research project to expand the scope of the original tool, with more publicly available data and a better score calculation with machine learning. We are focusing on college towns around Utah, and aim to develop a web tool and app if the analysis beats what is currently available. The paper will be submitted for publication by the end of the semester, and we plan on presenting the results at the UGIC event in Logan in early May. Below is the code from the original tool and a map visualization of the output.
+My final project in my Python class involved taking UDOT road data from the UGRC, and creating a “bike comfort” score based on several factors (speed limit, bike lane type, and road ownership). This final project led to starting a research project to expand the scope of the original tool, with more publicly available data and a better score calculation with machine learning. We are focusing on college towns around Utah, and aim to develop a web tool and app if the analysis beats what is currently available. The paper will be submitted for publication by the end of the semester, and we have submitted our abstract to the <a href="https://ugic.org/" target="_blank">UGIC</a> to present our results at the event in early May. Below in the drop down is the code from the original tool and a map visualization of the output.
 <details>
 <summary><b>Bike Comfort Score Code</b></summary>
 <br>
@@ -41,6 +41,22 @@ My final project in my Python class involved taking UDOT road data from the UGRC
 
 </code>
 </pre>
+<br>
+<img src="https://afielder02.github.io/GISPortfolio/assets/maps/SLC_DEMO.jpg" width="500" height="500">
+</details>
+<br><br>
+
+<strong>TITLE</strong>
+<br>
+DESC
+<a href="LINK">WORDS</a>
+<details>
+<summary><b>DROP DOWN TITLE</b></summary>
+<br>
+DROP DOWN CONTENTS
+<br>
+<img src="IMAGE LINK" width="1000" height="1000">
 </details>
 <br>
-<img src="https://afielder02.github.io/GISPortfolio/assets/maps/SLC_DEMO.jpg" width="1000" height="1000">
+
+
