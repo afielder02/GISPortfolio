@@ -14,7 +14,7 @@ The following maps I have visualised for projects, with several being added to r
 <img src="https://afielder02.github.io/GISPortfolio/assets/maps/FinalOwlMap.jpg" width="1000" height="1000">
 <details>
   <summary><b> Spotted Owl Habitat </b></summary>
-  I originally made this map for the Advanced GIS class, and to be perfectly frank it was a nightmare. I had the chance to recreate this map when acting as the Teachers Aid for the same class lab, and created a new visualization utilizing the Gestalt principles of visual hierarchy. Overall it might be the most “eye candy” map I have created.
+I created a new visualization utilizing the Gestalt principles of visual hierarchy. (Descripe Gestalt)
 </details>
 <br>
 
