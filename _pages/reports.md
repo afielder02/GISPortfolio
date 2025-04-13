@@ -7,12 +7,13 @@ This page contains multiple reports. Please use the dropdown menus to expand or 
 <details open>
 <summary><b>500 North Bike Lane Proposal</b></summary>
 <br>
-This report was developed as part of the Communicating Sustainability course and applies Community-Based Social Marketing principles to drive impactful change. Currently under review by the city council and planning office, this project has contributed to multiple drafted designs for the proposed bike lane. A <a href="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/view?usp=sharing" target="_blank">high-quality version</a>.
-is available to view.
+This report was developed as part of the Communicating Sustainability course and applies Community-Based Social Marketing principles. Currently approved for construction this spring by the city council and planning office, this project will be the first protected bike lane in the city. A <a href="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/view?usp=sharing" target="_blank">high-quality version</a>.
+is available to view here.
 <br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
 <br>
+
 <details>
 <summary><b>Double Up Food Bucks</b></summary>
 <br>
@@ -21,6 +22,7 @@ This independent project focused on analyzing the reach and impact of the Double
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Farmers_Market_GIS_Report.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
 <br>
+
 <details>
 <summary><b>Natural Resource Management Plan</b></summary>
 <br>
@@ -29,6 +31,7 @@ For my final project in Human Dimensions of Natural Resource Management at USU, 
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/NRM_FINAL.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
 <br>
+
 <details>
 <summary><b>Amtrak Ridership Data Visualization</b></summary>
 <br>
@@ -37,6 +40,7 @@ This is a graphic I created going through amtrak data to tell a story about its 
 <img src="https://afielder02.github.io/GISPortfolio/assets/pdfs/Amtrak.jpg" width="1000" height="1800" alt="Amtrak Post Covid Ridership Recovery">
 </details>
 <br>
+
 <details>
 <summary><b>Poster for Natural Resources and Society</b></summary>
 <br>
