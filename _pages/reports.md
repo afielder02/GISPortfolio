@@ -10,7 +10,7 @@ This page contains multiple reports. Please use the dropdown menus to expand or 
 This report was developed as part of the Communicating Sustainability course and applies Community-Based Social Marketing principles to drive impactful change. Currently under review by the city council and planning office, this project has contributed to multiple drafted designs for the proposed bike lane. A <a href="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/view?usp=sharing" target="_blank">high-quality version</a>.
 is available to view.
 <br><br>
-<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
 <br>
 <details>
@@ -18,7 +18,7 @@ is available to view.
 <br>
 This independent project focused on analyzing the reach and impact of the Double Up Food Bucks Program. The goal was to determine where participants were traveling from to access farmers' markets offering the program. The report details my analytical methods, and I also created a supplemental story map to visualize the findings that you can find <a href="https://storymaps.arcgis.com/stories/3acda68ada4c42d2bacafadd5dd1ed55" target="_blank">here</a>.
 <br><br>
-<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Farmers_Market_GIS_Report.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Farmers_Market_GIS_Report.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
 <br>
 <details>
@@ -26,7 +26,7 @@ This independent project focused on analyzing the reach and impact of the Double
 <br>
 For my final project in Human Dimensions of Natural Resource Management at USU, I developed a strategic plan addressing urban sprawl in Cache County. Utilizing a custom Google Earth Engine script, I gathered reference imagery to support my analysis. As someone deeply passionate about sustainable growth and land use planning, this project was a valuable opportunity to explore solutions for curbing sprawl.
 <br><br>
-<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/NRM_FINAL.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/NRM_FINAL.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
 <br>
 <details>
@@ -34,7 +34,7 @@ For my final project in Human Dimensions of Natural Resource Management at USU, 
 <br>
 This is a graphic I created going through amtrak data to tell a story about its post pandemic ridership recovery. It was a practice in data visualization, storytelling, and accurate reporting. The graphics where created using Tableau.
 <br><br>
-<img src="https://afielder02.github.io/GISPortfolio/assets/pdfs/Amtrak.jpg" width="1000" height="1000" alt="Amtrak Post Covid Ridership Recovery">
+<img src="https://afielder02.github.io/GISPortfolio/assets/pdfs/Amtrak.jpg" width="1000" height="1800" alt="Amtrak Post Covid Ridership Recovery">
 </details>
 <br>
 <details>
@@ -42,6 +42,6 @@ This is a graphic I created going through amtrak data to tell a story about its 
 <br>
 This poster was a final for a class to give students practice with poster design and presentation.
 <br><br>
-<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Poster.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Poster.pdf" width="1300" height="1000" type="application/pdf"></object>
 </details>
 
