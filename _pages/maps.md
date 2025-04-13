@@ -35,7 +35,7 @@ The following maps I have visualised for projects, with several being added to r
 <img src="https://afielder02.github.io/GISPortfolio/assets/maps/WasatchFrontUtah.jpg" width="1000" height="1000">
 <details>
   <summary><b> Double Up Food Bucks </b></summary>
-   This map, with a related Esri Story Map, was made and provided to the Utah Department of Health to distribute to farmers markets across the state. More about that project can be found on the <a href=”https://afielder02.github.io/GISPortfolio/reports/" target="_blank">reports</a> page.
+   This map, with a related Esri Story Map, was made and provided to the Utah Department of Health to distribute to farmers markets across the state. More about that project can be found on the <a href="https://afielder02.github.io/GISPortfolio/reports/" target="_blank">reports</a> page.
 
 </details>
 <br>
@@ -43,7 +43,7 @@ The following maps I have visualised for projects, with several being added to r
 <img src="https://afielder02.github.io/GISPortfolio/assets/maps/Bikemap.png" width="1000" height="1000">
 <details>
   <summary><b> Logan Bike Crash Map </b></summary>
-  This map was created as a part of USU’s Communicating Sustainability capstone class, and was a part of a report that our group made and presented to Logan City Council. This report ended up convincing the city council to create the first protected bike lane in the city. More about that project can be found on the <a href=”https://afielder02.github.io/GISPortfolio/reports/" target="_blank">reports</a> page.
+  This map was created as a part of USU’s Communicating Sustainability capstone class, and was a part of a report that our group made and presented to Logan City Council. This report ended up convincing the city council to create the first protected bike lane in the city. More about that project can be found on the <a href="https://afielder02.github.io/GISPortfolio/reports/" target="_blank">reports</a> page.
 </details>
 <br>
 
