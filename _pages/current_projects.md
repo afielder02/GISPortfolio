@@ -4,7 +4,7 @@ permalink: /current_projects/
 ---
 <strong>Bike Comfort Research</strong>
 <br>
-My final project, the Python Coding for GIS class, began as an idea from a friend while talking about the state of cycling infrastructure in Logan. City and County maps had not been updated in years, and an update perpetually seemed around the corner. Taking matters into my own hands, this project involved taking UDOT road data from the UGRC, and creating a “bike comfort” score based on several factors (speed limit, bike lane type, and road ownership). This was only the start, and led to starting a research project to expand the scope of the original tool, with more publicly available data and better score calculations. We are focusing on college towns around Utah, and aim to develop a web tool and app if the analysis beats what is currently available. The web tool will be available on the USU <a href="https://www.usu.edu/geospatial/” target="_blank">Geospatial website</a> and we will be presenting our research at the <a href="https://ugic.org/" target="_blank">UGIC</a> in early May. Below in the drop down is the code from the original tool, and a map of the original output.
+My final project, the Python Coding for GIS class, began as an idea from a friend while talking about the state of cycling infrastructure in Logan. City and County maps had not been updated in years, and an update perpetually seemed around the corner. Taking matters into my own hands, this project involved taking UDOT road data from the UGRC, and creating a “bike comfort” score based on several factors (speed limit, bike lane type, and road ownership). This was only the start, and led to starting a research project to expand the scope of the original tool, with more publicly available data and better score calculations. We are focusing on college towns around Utah, and aim to develop a web tool and app if the analysis beats what is currently available. The web tool will be available on the USU <a href="https://www.usu.edu/geospatial/" target="_blank">Geospatial website</a> and we will be presenting our research at the <a href="https://ugic.org/" target="_blank">UGIC</a> in early May. Below in the drop down is the code from the original tool, and a map of the original output.
 <details>
 <summary><b>Bike Comfort Score Code</b></summary>
 <br>
@@ -41,9 +41,9 @@ My final project, the Python Coding for GIS class, began as an idea from a frien
 
 </code>
 </pre>
+</details>
 <br>
 <img src="https://afielder02.github.io/GISPortfolio/assets/maps/SLC_DEMO.jpg" width="700" height="700">
-</details>
 <br><br>
 
 <strong>Beaver Dam Censusing</strong>
