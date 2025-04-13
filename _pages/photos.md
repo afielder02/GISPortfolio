@@ -8,7 +8,7 @@ You have found my secret photography work!
 
 <details open>
 <summary><b>SanFran</b></summary>
-<br>
+<br><br>
 <img src="https://afielder02.github.io/GISPortfolio/assets/photos/SF1.jpg" width="750" height="750">
 <br>
 <img src="https://afielder02.github.io/GISPortfolio/assets/photos/SF2.jpg" width="750" height="750">
