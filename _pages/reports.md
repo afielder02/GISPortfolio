@@ -15,6 +15,15 @@ is available to view here.
 <br>
 
 <details>
+<summary><b>New Mexico Beaver Dam Census</b></summary>
+<br>
+This report was prepared in the RAM lab for Defenders of Wildlife. It goes into the process and results of the Dam Census in New Mexico.
+<br><br>
+<object data="https://defenders.org/sites/default/files/BeaverDamStudy.pdf" width="1000" height="1300" type="application/pdf"></object>
+</details>
+<br>
+
+<details>
 <summary><b>Double Up Food Bucks</b></summary>
 <br>
 This independent project focused on analyzing the reach and impact of the Double Up Food Bucks Program. The goal was to determine where participants were traveling from to access farmers' markets offering the program. The report details my analytical methods, and I also created a supplemental story map to visualize the findings that you can find <a href="https://storymaps.arcgis.com/stories/3acda68ada4c42d2bacafadd5dd1ed55" target="_blank">here</a>.
