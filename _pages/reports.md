@@ -28,7 +28,7 @@ This report was prepared in the RAM lab for Defenders of Wildlife. It goes into 
 <br>
 I worked on data cleanup and processing for this paper, working with the DNR and UGRC data sources to help generate a Blue Ribbon fisheries map. The data was surprisingly difficult to source, requiring the linking to and comparing against DNR translation spreadsheets. While I still think that the Fisheries data should be publically available and easy to access, it was a good experience to witness the miscommunication between different state agencies, and how data transfers and is referenced when transferring ownership.
 <br><br>
-<object data="https://defenders.org/sites/default/files/WildfireErrosion.pdf" width="1000" height="1300" type="application/pdf"></object>
+<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/WildfireErrosion.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
 <br>
 
