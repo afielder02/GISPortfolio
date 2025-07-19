@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "Reports"
     url: /reports/
-  - title: "Current Projects"
-    url: /current_projects/
+  #- title: "Current Projects"
+    #url: /current_projects/
   - title: "Maps"
     url: /maps/
   - title: "Resume"
