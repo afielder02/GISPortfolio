@@ -44,7 +44,7 @@ plugins:
 author:
   name   : "Alex Fielder"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Graduating USU with a Bachelor's of Environmental Studies"
+  bio    : "Recent USU graduate with a Bachelor's of Environmental Studies"
   location : "Logan, UT"
   links:
     - label: "Email"
