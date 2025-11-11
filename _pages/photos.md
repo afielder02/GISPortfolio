@@ -5,11 +5,11 @@ permalink: /photos/
 ___
 You have found my secret photography work! 
 
-
 <details open>
 <summary><b>SanFran</b></summary>
 <br>
 <img src="https://afielder02.github.io/GISPortfolio/assets/photos/SF1.jpg" width="750" height="750">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/photos/SF1.jpg" alt="" class="full">
 <img src="https://afielder02.github.io/GISPortfolio/assets/photos/SF2.jpg" width="750" height="750">
 <img src="https://afielder02.github.io/GISPortfolio/assets/photos/SF.jpg" width="750" height="750">
 <img src="https://afielder02.github.io/GISPortfolio/assets/photos/SF3.jpg" width="750" height="750">
