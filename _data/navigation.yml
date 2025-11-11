@@ -3,8 +3,11 @@ main:
     url: /about/
   - title: "Reports"
     url: /reports/
-  #- title: "Current Projects"
-    #url: /current_projects/
+    children:
+      - title: "500N Bike Lane"
+        url: /reports/CEL/
+      - title: "Beaver Dam Census"
+        url: /reports/Census/
   - title: "Maps"
     url: /maps/
   - title: "Resume"
