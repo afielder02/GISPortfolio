@@ -67,18 +67,6 @@ footer:
       url: "https://github.com/afielder02"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      permalink: /:title/
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
 
   # _pages
   - scope:
