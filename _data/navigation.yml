@@ -9,10 +9,7 @@ main:
     url: /resume/
 
 reports:
-    - title: "Reports"
-    url: /reports/
-    children:
-      - title: "500N Bike Lane"
-        url: /reports/CEL/
-      - title: "Beaver Dam Census"
-        url: /reports/Census/
+  - title: "500N Bike Lane"
+    url: /reports/CEL/
+  - title: "Beaver Dam Census"
+    url: /reports/Census/
