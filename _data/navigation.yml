@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Reports"
     url: /reports/
+    - title: "500N Bike Lane"
+      url: /reports/CEL/
   #- title: "Current Projects"
     #url: /current_projects/
   - title: "Maps"
