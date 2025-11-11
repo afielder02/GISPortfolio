@@ -10,7 +10,7 @@ This page contains multiple reports. Please use the dropdown menus to expand or 
 This report was developed as part of the Communicating Sustainability course and applies Community-Based Social Marketing principles. Currently approved for construction this spring by the city council and planning office, this project will be the first protected bike lane in the city. A <a href="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/view?usp=sharing" target="_blank">high-quality version</a>.
 is available to view here.
 <br><br>
-<iframe src="https://afielder02.github.io/GISPortfolio/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1300"></iframe>
+<iframe src="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/preview" width="1000" height="1300" style="border:none;"></iframe>
 </details>
 <br>
 
