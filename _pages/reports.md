@@ -2,7 +2,7 @@
 title: Reports
 permalink: /reports/
 sidebar:
-  nav: "children"
+  nav: "Reports"
 ---
 ___
 This page contains multiple reports. Please use the dropdown menus to expand or collapse each report for easy navigation.
