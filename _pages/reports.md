@@ -20,6 +20,7 @@ is available to view here.
 This report was prepared in the RAM lab for Defenders of Wildlife. It goes into the process and results of the Dam Census in New Mexico. The BRAT model will be validaded using this data, with this report being found <a href="https://www.researchgate.net/publication/394819174_New_Mexico_Statewide_2020_NAIP_Imagery-Based_Beaver_Dam_Census" target="_blank">here</a>.
 <br><br>
 <object data="https://defenders.org/sites/default/files/BeaverDamStudy.pdf" width="1000" height="1300" type="application/pdf"></object>
+<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
 <br>
 
