@@ -3,12 +3,16 @@ main:
     url: /about/
   - title: "Reports"
     url: /reports/
+  - title: "Maps"
+    url: /maps/
+  - title: "Resume"
+    url: /resume/
+
+reports:
+    - title: "Reports"
+    url: /reports/
     children:
       - title: "500N Bike Lane"
         url: /reports/CEL/
       - title: "Beaver Dam Census"
         url: /reports/Census/
-  - title: "Maps"
-    url: /maps/
-  - title: "Resume"
-    url: /resume/
