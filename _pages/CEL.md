@@ -18,10 +18,9 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/CEL1.JPG" alt="Header" class="page__hero-image">
 
 Cel Bike lane project
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/CEL1.JPG" alt="" class="full">
 
 
 {% include gallery caption="Logan's first buffered bike lane on 500N **Images caputred September 27th, 2025**." %}
