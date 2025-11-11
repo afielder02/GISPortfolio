@@ -18,7 +18,12 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/CEL1.JPG" alt="Header" class="page__hero-image">
+
+<div class="page__hero" style=" background-image: url('');">
+  
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/CEL1.JPG" alt="Header" class="page__hero-image">
+
+</div>
 
 Cel Bike lane project
 
