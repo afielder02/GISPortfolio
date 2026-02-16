@@ -19,11 +19,20 @@ is available to view here.
 <br>
 
 <details>
+<summary><b>New Mexico BRAT Technical Report</b></summary>
+<br>
+This report was prepared in the RAM lab for Defenders of Wildlife. It explains the validation process using the beaver dam census data, and goes through the BRAT model and outputs. I was fortunate enough to work on some areas of the report along with creating all the maps. The report can be found <a href="https://www.researchgate.net/publication/398839067_New_Mexico_BRAT_Final_Report" target="_blank">here</a>.
+<br><br>
+<object data="https://defenders.org/sites/default/files/BeaverDamStudy.pdf" width="1000" height="1300" type="application/pdf"></object>
+</details>
+<br>
+
+<details>
 <summary><b>New Mexico Beaver Dam Census</b></summary>
 <br>
 This report was prepared in the RAM lab for Defenders of Wildlife. It goes into the process and results of the Dam Census in New Mexico. The BRAT model will be validaded using this data, with this report being found <a href="https://www.researchgate.net/publication/394819174_New_Mexico_Statewide_2020_NAIP_Imagery-Based_Beaver_Dam_Census" target="_blank">here</a>.
 <br><br>
-<object data="https://defenders.org/sites/default/files/BeaverDamStudy.pdf" width="1000" height="1300" type="application/pdf"></object>
+<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/New_Mexico_BRAT_Final_Report.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
 <br>
 
