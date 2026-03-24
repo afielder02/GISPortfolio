@@ -9,11 +9,10 @@ This page contains multiple reports. Please use the dropdown menus to expand or 
 <details open>
 <summary><b>500 North Bike Lane Proposal</b></summary>
 <br>
-This report was developed as part of the Communicating Sustainability course and applies Community-Based Social Marketing principles. Currently approved for construction this spring by the city council and planning office, this project will be the first protected bike lane in the city. A <a href="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/view?usp=sharing" target="_blank">high-quality version</a>.
+This report was developed as part of the Communicating Sustainability course at Utah State University and applies Community-Based Social Marketing principles. Our report and meetings with the city council led to the construction of the 500N bike lane, which became the first protected bike lane in the city. A <a href="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/view?usp=sharing" target="_blank">high-quality version</a>.
 is available to view here.
 <br><br>
 <object data="/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1300" type="application/pdf">
-  <p>Your browser does not support PDFs. <a href="/assets/pdfs/CEL_Class_Report-compressed.pdf">Download the PDF</a>.</p>
 </object>
 </details>
 <br>
@@ -42,15 +41,6 @@ This report was prepared in the RAM lab for Defenders of Wildlife. It goes into 
 I worked on data cleanup and processing for this paper, working with the DNR and UGRC data sources to help generate a Blue Ribbon fisheries map. The data was surprisingly difficult to source, requiring the linking to and comparing against DNR translation spreadsheets. While I still think that the Fisheries data should be publically available and easy to access, it was a good experience to witness the miscommunication between different state agencies, and how data transfers and is referenced when transferring ownership.
 <br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/WildfireErrosion.pdf" width="1000" height="1300" type="application/pdf"></object>
-</details>
-<br>
-
-<details>
-<summary><b>Double Up Food Bucks</b></summary>
-<br>
-This independent project focused on analyzing the reach and impact of the Double Up Food Bucks Program. The goal was to determine where participants were traveling from to access farmers' markets offering the program. The report details my analytical methods, and I also created a supplemental story map to visualize the findings that you can find <a href="https://storymaps.arcgis.com/stories/3acda68ada4c42d2bacafadd5dd1ed55" target="_blank">here</a>.
-<br><br>
-<object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/Farmers_Market_GIS_Report.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
 <br>
 
