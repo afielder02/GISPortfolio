@@ -14,15 +14,16 @@ carousels:
 
 This page contains multiple reports. Please use the dropdown menus to expand or collapse each report for easy navigation.
 <details open>
-<summary><b>500 North Bike Lane Proposal</b></summary>
-<br>
-This report was developed as part of the Communicating Sustainability course at Utah State University and applies Community-Based Social Marketing principles. Our report and meetings with the city council led to the construction of the 500N bike lane, which became the first protected bike lane in the city. A <a href="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/view?usp=sharing" target="_blank">high-quality version</a>.
-is available to view here.
-<br><br>
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-<br><br>
-<object data="/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1300" type="application/pdf">
-</object>
+  <summary><b>500 North Bike Lane Proposal</b></summary>
+    <br>
+      This report was developed as part of the Communicating Sustainability course at Utah State University and applies Community-Based Social Marketing principles. Our report and meetings with the city council led to the construction of the 500N bike lane, which became the first protected bike lane in the city. A <a        href="https://drive.google.com/file/d/1ttyRhSkwQyvXGtbFaPHlH321Z5Y45xSw/view?usp=sharing" target="_blank">high-quality version</a>.
+      is available to view here.
+    <br><br>
+    {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+    Pictures I took (September 27th, 2025) of the bike lane not long after the project finished.
+    <br><br>
+    <object data="/assets/pdfs/CEL_Class_Report-compressed.pdf" width="1000" height="1300" type="application/pdf">
+  </object>
 </details>
 <br>
 
