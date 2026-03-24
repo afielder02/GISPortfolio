@@ -4,12 +4,14 @@ permalink: /reports/
 sidebar:
   nav: "reports"
 carousels:
-  -immage:  /assests/images/500N_1
-  -immage:  /assests/images/500N_2
-  -immage:  /assests/images/500N_3
-  -immage:  /assests/images/500N_4
-  -immage:  /assests/images/500N_5
+  -immage:  /assets/images/500N_1.JPG
+  -immage:  /assets/images/500N_2.JPG
+  -immage:  /assets/images/500N_3.JPG
+  -immage:  /assets/images/500N_4.JPG
+  -immage:  /assets/images/500N_5.JPG
 ---
+
+assets/images/500N_1.JPG
 
 This page contains multiple reports. Please use the dropdown menus to expand or collapse each report for easy navigation.
 <details open>
