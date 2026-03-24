@@ -29,7 +29,7 @@ is available to view here.
 <details>
 <summary><b>New Mexico BRAT Technical Report</b></summary>
 <br>
-This report was prepared in the RAM lab for Defenders of Wildlife. It explains the validation process using the beaver dam census data, and goes through the BRAT model and outputs. I was fortunate enough to work on some areas of the report along with creating all the maps. The report can be found <a href="https://www.researchgate.net/publication/398839067_New_Mexico_BRAT_Final_Report" target="_blank">here</a>.
+This report was prepared in the RAM lab for Defenders of Wildlife. It explains the validation process using the beaver dam census data, and goes through the BRAT model and outputs. I was fortunate enough to write about the dam censing protocols and my experience censusing the state, along with creating all the maps. The report can be found <a href="https://www.researchgate.net/publication/398839067_New_Mexico_BRAT_Final_Report" target="_blank">here</a>.
 <br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/New_Mexico_BRAT_Final_Report.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
@@ -47,7 +47,7 @@ This report was prepared in the RAM lab for Defenders of Wildlife. It goes into 
 <details>
 <summary><b>Post-Wildfire Erosion Paper</b></summary>
 <br>
-I worked on data cleanup and processing for this paper, working with the DNR and UGRC data sources to help generate a Blue Ribbon fisheries map. The data was surprisingly difficult to source, requiring the linking to and comparing against DNR translation spreadsheets. While I still think that the Fisheries data should be publically available and easy to access, it was a good experience to witness the miscommunication between different state agencies, and how data transfers and is referenced when transferring ownership.
+I worked on data cleanup and processing for this paper, working with the DNR and UGRC data sources to help generate a Blue Ribbon fisheries map. The data was surprisingly difficult to source, requiring the linking to and comparing against DNR translation spreadsheets. While I still think that the Fisheries data should be easier to access, it was a good experience to witness the miscommunication between different state agencies, and how data is referenced when transferring ownership.
 <br><br>
 <object data="https://afielder02.github.io/GISPortfolio/assets/pdfs/WildfireErrosion.pdf" width="1000" height="1300" type="application/pdf"></object>
 </details>
